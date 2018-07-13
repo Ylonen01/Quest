@@ -1,2 +1,0 @@
-# Quest
-Learning Project
